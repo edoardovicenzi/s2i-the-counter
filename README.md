@@ -4,7 +4,7 @@ The counter is a simple interactive counter that allows you to... well keep coun
 ![App Screenshot](/img/counter-default.png)
 ## Demo
 
-The working demo is hosted on github pages at: https://edoardovicenzi.github.io/s2i-the-counter/## Features
+The working demo is hosted on github pages at: https://edoardovicenzi.github.io/s2i-the-counter/
 
 ## Features
 - Every aspect of the counter is created via the Counter class.
